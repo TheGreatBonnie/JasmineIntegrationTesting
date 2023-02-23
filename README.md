@@ -18,3 +18,6 @@ Step 3: Run the npm install command to install the dependencies.
 npm install
 ```
 Step 4: Follow *Jasmine JS Tutorial: How To Run Jasmine Integration Tests* blog to learn more on how to run run the tests.
+
+## Note
+Automated integration tests are run at scale on [LambdaTest Cloud Selenium Grid](http://www.lambdatest.com?fp_ref=bonface17).
