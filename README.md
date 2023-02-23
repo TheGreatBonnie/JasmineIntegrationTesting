@@ -1,6 +1,6 @@
 # Jasmine Integration Testing
 This repo contains sample code for running automated integration tests on REST APIs using Jasmine JavaScript testing framework.
-Furthermore, repo contains sample code for running automated integration tests at scale on an online Selenium Grid using Jamsine.
+Furthermore, the repo contains sample code for running automated integration tests at scale on an online Selenium Grid using Jamsine.
 
 ## Running The Tests
 Step 1: Git clone the repo.
